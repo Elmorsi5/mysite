@@ -1,0 +1,2 @@
+1- How to resolve 'Import "django.contrib" could not be resolved from source' in VS Code?:
+https://stackoverflow.com/questions/67586182/how-to-resolve-import-django-contrib-could-not-be-resolved-from-source-in-vs
